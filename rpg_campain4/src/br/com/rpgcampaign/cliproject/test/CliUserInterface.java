@@ -830,7 +830,7 @@ public class CliUserInterface implements UserInterface {
 		Set<String> setKnownSpells = new HashSet<String>();
 		Set<String> setMoneyAndItems = new HashSet<String>();
 
-		setAdvantages.add(characterDisadvantages);
+		setAdvantages.add(characterAdvantages);
 		setDisadvantages.add(characterDisadvantages);
 		setDamageTypes.add(characterDamageTypes);
 		setKnownSpells.add(characterKnownSpells);
