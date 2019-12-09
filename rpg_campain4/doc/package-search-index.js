@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","url":"allpackages-index.html"},{"l":"br.com.rpgcampaign.cliproject.campaign"},{"l":"br.com.rpgcampaign.cliproject.character"},{"l":"br.com.rpgcampaign.cliproject.controller"},{"l":"br.com.rpgcampaign.cliproject.test"},{"l":"br.com.rpgcampaign.cliproject.ui"},{"l":"br.com.rpgcampaign.cliproject.user"}]
